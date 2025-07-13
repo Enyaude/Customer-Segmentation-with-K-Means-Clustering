@@ -18,7 +18,7 @@ The tool allows:
 - Marketing teams to design **targeted strategies**
 - Businesses to **personalize offers**
 - Analysts to **explore patterns** in customer behavior
-## LIVE : https://customer-segmentation-with-kmeans-clustering.streamlit.app/
+## LIVE : https://customer-segmentation-with-k-means-clustering-enyaude.streamlit.app/
 
 ---
 
