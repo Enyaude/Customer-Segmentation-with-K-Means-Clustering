@@ -6,7 +6,7 @@ from sklearn.cluster import KMeans
 
 # Streamlit setup
 st.set_page_config(page_title="Customer Segmentation", layout="wide")
-st.title("🛍️ Customer Segmentation using K-Means")
+st.title("🛍️ Customer Segmentation with K-Means")
 
 # Upload CSV file
 uploaded_file = st.file_uploader("📤 Upload Customer Dataset (CSV)", type="csv")
